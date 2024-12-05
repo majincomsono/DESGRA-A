@@ -1,0 +1,27 @@
+body {
+    background-color: #f4f6f9;
+  }
+  
+  h2 {
+    color: #343a40;
+  }
+  
+  table th, table td {
+    text-align: center;
+  }
+  
+  table {
+    margin-top: 20px;
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f2f2f2;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+  
+  .container {
+    max-width: 800px;
+  }
